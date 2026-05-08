@@ -37,8 +37,8 @@ env/
 
 # Data files (large)
 data/processed/*.npy
-data/raw_midi/*.mid
-data/raw_midi/*.midi
+# data/raw_midi/*.mid
+# data/raw_midi/*.midi
 all_year_files/*.midi
 all_year_files/*.mid
 
